@@ -1,25 +1,28 @@
 name: doc_scanner_ai
 description: "A new Flutter project."
-publish_to: 'none' 
+publish_to: 'none'
 version: 1.0.0+1
 
 environment:
-  sdk: '>=3.4.3 <4.0.0'
+  sdk: '>=3.2.3 <4.0.0'
 
 dependencies:
   flutter:
     sdk: flutter
-  cupertino_icons: ^1.0.6
-  image_picker: ^1.1.2
-  google_mlkit_text_recognition: ^0.12.0
-  share_plus: ^9.0.0
-  permission_handler: ^11.3.1
-  cunning_document_scanner: ^1.1.2 # Replaced with a modern scanner package
+  cupertino_icons: ^1.0.2
+  image_picker: ^1.0.7
+  google_mlkit_text_recognition: ^0.11.0
+  share_plus: ^7.2.2
+  permission_handler: ^11.3.0
+  cunning_document_scanner: ^1.1.2
+  gal: ^2.1.2 # <-- This is the correct, modern package.
+  flutter_animate: ^4.5.2
+  clipboard: ^2.0.2
 
 dev_dependencies:
   flutter_test:
     sdk: flutter
-  flutter_lints: ^3.0.0
+  flutter_lints: ^2.0.0
 
 flutter:
   uses-material-design: true
