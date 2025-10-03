@@ -43,3 +43,12 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+.flutter-plugins
+ios/Flutter/Debug.xcconfig
+ios/Podfile.lock
+ios/Runner.xcworkspace/contents.xcworkspacedata
+ios/Runner.xcworkspace/contents.xcworkspacedata
+*.xcworkspacedata
+*.xcconfig
+macos/Flutter/Flutter-Release.xcconfig
+pubspec.lock
