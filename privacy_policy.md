@@ -25,7 +25,7 @@ No scanned data leaves your device.
 We do not use external servers to process or store your information.
 
 ### 4. Children’s Privacy
-Our services are not directed to children under 13 years of age.
+Our services can be used by children of any age.
 
 ### 5. Changes to This Policy
 We may update this privacy policy occasionally. Updates will be posted on our official website.
