@@ -52,3 +52,5 @@ ios/Runner.xcworkspace/contents.xcworkspacedata
 *.xcconfig
 macos/Flutter/Flutter-Release.xcconfig
 pubspec.lock
+.metadata
+.metadata

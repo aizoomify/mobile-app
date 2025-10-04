@@ -1,4 +1,4 @@
-import 'package:doc_scanner_ai/homeScreen.dart';
+import 'package:ai_doc_scan/homeScreen.dart';
 import 'package:flutter/material.dart';
 
 

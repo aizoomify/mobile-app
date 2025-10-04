@@ -1,5 +1,5 @@
-name: doc_scanner_ai
-description: "A new Flutter project."
+name: ai_doc_scan
+description: "AI powered doc scanner"
 publish_to: 'none'
 version: 1.0.0+1
 
